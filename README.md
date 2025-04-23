@@ -1,5 +1,5 @@
 # magnet
-A Bitcoin secret bruteforce tool !
+A bitcoin secret bruteforcing tool !
 
 
 it's not releases yet!
