@@ -1,13 +1,17 @@
+---
+
 # magnet
-A bitcoin secret bruteforcing tool !
 
+*A Bitcoin secret bruteforcing tool*
 
-it's not releases yet!
-Its under development !
-since people ask what I contribute in dev.
-here is it !
+It's not released yet — still under active development!
+Since people have been asking what I’m working on, here it is.
 
-this one!
+**This is the one.**
 
-it might see face soon.
-Thank you!
+It might see the light of day soon.
+Thanks for your interest!
+
+---
+
+Would you like a version with a more technical or casual tone?
