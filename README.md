@@ -12,6 +12,4 @@ Since people have been asking what I’m working on, here it is.
 It might see the light of day soon.
 Thanks for your interest!
 
----
 
-Would you like a version with a more technical or casual tone?
