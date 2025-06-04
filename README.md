@@ -2,7 +2,7 @@
 
 # magnet
 
-*A Bitcoin secret bruteforcing tool*
+*Bitcoin secret bruteforcing tool*
 
 It's not released yet — still under active development!
 Since people have been asking what I’m working on, here it is.
